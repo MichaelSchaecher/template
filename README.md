@@ -1,4 +1,4 @@
-<div align="ceter">
+<div style="text-align: center;">
   <h1 
     style="font-size: 3rem; font-weight: bold; color: rgb(150, 108, 190);"
     >
